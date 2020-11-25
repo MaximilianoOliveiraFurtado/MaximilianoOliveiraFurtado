@@ -1,16 +1,16 @@
-### Hi there 👋
+#  E aí, seja bem vindo! 👋
 
-<!--
-**MaximilianoOliveiraFurtado/MaximilianoOliveiraFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente presto serviço na [DASA](https://dasa.com.br/).
+- 💪 Tenho focado minhas e atividades e especialização técnica na stack nodejs
+- 📚 Finalizei em 2020 um MBA de TI na FGV 
+- ☕️  Adoro tecnologia, games, filmes, seriados e aventuras junto à natureza
+- 👨‍👩‍👧‍👦 Casado e sem filhos por enquanto
+- 💬 Ask me about: Desenvolvimento de Software :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaximilianoOliveiraFurtado)](https://github.com/MaximilianoOliveiraFurtado)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiliano-de-oliveira-furtado-183444119/)](https://www.linkedin.com/in/maximiliano-de-oliveira-furtado-183444119/)
+
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoOliveiraFurtado" alt="MaximilianoOliveiraFurtado" /> </p>
