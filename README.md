@@ -3,9 +3,9 @@
 ### Sobre mim:
 
 - 🔭 Atualmente presto serviço na [DASA](https://dasa.com.br/).
-- 💪 Tenho focado minhas e atividades e especialização técnica na stack nodejs
+- 💪 Tenho focado minhasatividades e especialização técnica na stack nodejs
 - 📚 Finalizei em 2020 um MBA de TI na FGV 
-- ☕️  Adoro tecnologia, games, filmes, seriados e aventuras junto à natureza
+- ☕️  Adoro técnologia, games, filmes, seriados e aventuras junto à natureza
 - 👨‍👩‍👧‍👦 Casado e sem filhos por enquanto
 - 💬 Ask me about: Desenvolvimento de Software :)
 
