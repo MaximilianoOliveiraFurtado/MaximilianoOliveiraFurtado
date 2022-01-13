@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-- 🔭 Atualmente presto serviço na [DASA](https://dasa.com.br/).
+- 🔭 Atualmente presto serviço na [Alliar](https://www.alliar.com/).
 - 💪 Tenho focado minhas atividades e especialização técnica na stack nodejs
 - 📚 Finalizei em 2020 um MBA de TI na FGV 
 - ☕️  Adoro técnologia, games, filmes, seriados e aventuras junto à natureza
