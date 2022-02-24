@@ -2,12 +2,12 @@
 
 ### Sobre mim:
 
-- 🔭 Atualmente presto serviço na [Alliar](https://www.alliar.com/).
+- 🔭 Atualmente trabalho na Zup.
 - 💪 Tenho focado minhas atividades e especialização técnica na stack nodejs
 - 📚 Finalizei em 2020 um MBA de TI na FGV 
 - ☕️  Adoro técnologia, games, filmes, seriados e aventuras junto à natureza
 - 👨‍👩‍👧‍👦 Casado e sem filhos por enquanto
-- 💬 Pergunte-me sobre: Desenvolvimento de Software :)
+- 💬 Pergunte-me sobre: Desenvolvimento de Software e Node.js :)
 
 Siga-me nas redes sociais:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaximilianoOliveiraFurtado)](https://github.com/MaximilianoOliveiraFurtado)
